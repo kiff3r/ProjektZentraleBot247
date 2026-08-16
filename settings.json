@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "12832.aternos.me:36040",
+    "ip": "12832.aternos.me",
     "port": 36040,
     "version": "",
     "try-creative": false
