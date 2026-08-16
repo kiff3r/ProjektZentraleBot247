@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ProjektZentrale.aternos.me",
+    "ip": "apir.aternos.host",
     "port": 36040,
     "version": "",
     "try-creative": false
