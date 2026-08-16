@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 12000,
       "messages": [
@@ -71,12 +71,12 @@
     "place-night": true
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.gg/vupNUa4GkN",
     "events": {
       "connect": true,
       "disconnect": false,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
