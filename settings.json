@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "apir.aternos.host",
+    "ip": "12832.aternos.me",
     "port": 36040,
     "version": "",
     "try-creative": false
